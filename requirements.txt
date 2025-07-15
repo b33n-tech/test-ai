@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+tabulate
+openpyxl
+transformers
+ollama
+tf-keras
+
